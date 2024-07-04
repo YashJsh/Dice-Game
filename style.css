@@ -1,0 +1,37 @@
+*{
+    margin : 0px;
+}
+
+.container{
+    background-color: rgb(54, 53, 53);
+    height: 720px;
+}
+
+.container h1{
+    color: rgb(47, 179, 11);
+    font-size: 8rem;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    align-items : center;
+    margin-bottom: 1rem ;
+}
+.dice-cont{
+    display: flex;
+    justify-content: center;
+    align-items : center;
+}
+
+.dice {
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 2rem;   
+    color: rgb(47, 179, 11);
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items : center;
+    
+}
